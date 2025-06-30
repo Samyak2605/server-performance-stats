@@ -27,9 +27,3 @@ The script displays:
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repo or copy the script to your system:
-   ```bash
-   git clone https://github.com/yourusername/server-performance-stats.git
-   cd server-performance-stats
