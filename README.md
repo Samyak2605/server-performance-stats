@@ -27,3 +27,4 @@ The script displays:
 
 ---
 
+This is the project link: https://roadmap.sh/projects/server-stats
